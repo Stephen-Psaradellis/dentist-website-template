@@ -9,6 +9,7 @@ no build step: open `index.html`, change the words, upload the folder.
 Running a plumbing, HVAC or electrical business instead? The same layout with a trades
 theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/keystone-lite).
 A house cleaning or maid service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/keystone-lite-cleaning).
+A law firm or solo attorney? [Keystone Lite Legal](https://github.com/Stephen-Psaradellis/keystone-lite-legal).
 
 ## What you get (free, MIT)
 
@@ -37,7 +38,7 @@ Keystone Lite is the home page of **Keystone**, a 16-page template:
 
 | | Lite (this repo) | Keystone |
 |---|---|---|
-| Home page | 1 (dental) | 3 (plumbing/HVAC, dental, cleaning) |
+| Home page | 1 (dental) | 4 (plumbing/HVAC, dental, cleaning, law firm) |
 | Inner pages | none | Services, Service detail, About, Pricing, Reviews, FAQ, Contact, Booking, Blog, Blog post, Thank-you, Privacy, 404 |
 | Colour presets | 1 | 4, one class each (plumbing, dental, cleaning, legal) |
 | Booking / quote form | no | yes, with job type, date and arrival window |
