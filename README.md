@@ -8,6 +8,7 @@ no build step: open `index.html`, change the words, upload the folder.
 
 Running a plumbing, HVAC or electrical business instead? The same layout with a trades
 theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/keystone-lite).
+A house cleaning or maid service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/keystone-lite-cleaning).
 
 ## What you get (free, MIT)
 
