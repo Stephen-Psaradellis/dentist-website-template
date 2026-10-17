@@ -4,12 +4,12 @@ A fast, accessible, single-page HTML/CSS site for a dental practice: family, cos
 emergency dentistry, orthodontics, or any clinic that books patients locally. No framework,
 no build step: open `index.html`, change the words, upload the folder.
 
-**Live preview:** https://stephen-psaradellis.github.io/keystone-lite-dental/
+**Live preview:** https://stephen-psaradellis.github.io/dentist-website-template/
 
 Running a plumbing, HVAC or electrical business instead? The same layout with a trades
-theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/keystone-lite).
-A house cleaning or maid service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/keystone-lite-cleaning).
-A law firm or solo attorney? [Keystone Lite Legal](https://github.com/Stephen-Psaradellis/keystone-lite-legal).
+theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/plumber-website-template).
+A house cleaning or maid service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template).
+A law firm or solo attorney? [Keystone Lite Legal](https://github.com/Stephen-Psaradellis/law-firm-website-template).
 
 ## What you get (free, MIT)
 
